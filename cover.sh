@@ -1,4 +1,3 @@
-#!/bin/bash
 
 API_KEY=""
 USERNAME=""
