@@ -1,7 +1,4 @@
-# Terminal now playing
-
-This repository contains a Bash script that fetches the current or last played track information from Last.fm from your Last.fm account. 
-The script also downloads and displays the cover art of the track.
+# Last.fm now playing but.. in your terminal?..
 
 ## Features
 
